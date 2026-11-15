@@ -6,7 +6,7 @@ This project is beginner-friendly and follows a **professional GitHub repository
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to view live demo](https://durgaprasadcodes.github.io/Live-Code-Editor/)
+👉 [Click here to view live demo](https://livescript-editor.vercel.app)
 
 ---
 
